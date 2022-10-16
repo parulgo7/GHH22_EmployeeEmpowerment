@@ -2,6 +2,8 @@
 
 This is Alice Nolan, Madelyn Khoury, and Parul Goswami's 2022 Girls Hoo Hack: Hack to the Future Project Submission. 
 
+*Note: if you would like to run our Colab notebook, please be sure to upload the provided .csv file into the "sample_data" folder in Colab.*
+
 Some project changes were not able to be recorded in GitHub due to compatibility difficulties with Google Colab and time constraints with the project. Thus, we created this document to highlight the contributions of each team member. 
 
 The following contributions were made by each group member: 
