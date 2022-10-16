@@ -11,13 +11,15 @@ Parul Goswami
 - Research on which dataset to choose
 - Research on which concept to go for (gender pay gap)
 - Data Cleaning + Data Visualization (heat maps, correlations, etc) 
-- Feature Engineering for JobGroup column
-- Debugging of Issues
+- Feature Engineering
+- Inertia vs. K 
 
 
 All group members did the following: 
 - Brainstormed and discussed ideas 
 - debugged/helped research solves to errors 
+- devpost
+- live demo
 - presentation! 
 
 
