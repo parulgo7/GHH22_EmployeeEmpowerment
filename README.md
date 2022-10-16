@@ -1,8 +1,8 @@
 # GHH22_EmployeeEmpowerment
 
-This is Alice Nolan, Madelyn Khoury and Parul Goswami's 2022 Girls Hoo Hack: Hack to the Future Project Submission. 
+This is Alice Nolan, Madelyn Khoury, and Parul Goswami's 2022 Girls Hoo Hack: Hack to the Future Project Submission. 
 
-Specific git commits were not able to be done due to compatibility difficulties and time restraints with the project with the platform Google Colab. Thus, we created the this document here. 
+Some project changes were not able to be recorded in GitHub due to compatibility difficulties with Google Colab and time constraints with the project. Thus, we created this document to highlight the contributions of each team member. 
 
 The following contributions were made by each group member: 
 
@@ -36,7 +36,6 @@ Madelyn Khoury
 - Created visualizations of clusters by color, using different shades for men and women
 - Created visualization method to plot percent of women per cluster vs other numerical features
 - Worked on Devpost and slides
-- Live demo
 
 All group members did the following: 
 - Brainstormed and discussed ideas 
