@@ -12,7 +12,9 @@ Parul Goswami
 - Research on which concept to go for (gender pay gap)
 - Data Cleaning + Data Visualization (heat maps, correlations, etc) 
 - Feature Engineering
-- Inertia vs. K 
+- Inertia vs. K implementations
+- Devpost + slides work
+- Live demo
 
 Alice Nolan
 - Research on which dataset to choose
