@@ -14,6 +14,16 @@ Parul Goswami
 - Feature Engineering
 - Inertia vs. K 
 
+Alice Nolan
+- Research on which dataset to choose
+- Research on which concept to go for (gender pay gap)
+- Data Cleaning + Pipelines
+- Feature Engineering for JobGroup column
+- Debugging of Issues
+- Implemented kmeans algorithm
+- Edited pyplot graph appearances
+- Create pyplots for each cluster
+- Worked on description of project on devpost/presentation
 
 All group members did the following: 
 - Brainstormed and discussed ideas 
